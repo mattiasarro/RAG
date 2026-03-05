@@ -1,0 +1,131 @@
+# Sündinud 23. veebruaril
+
+''Siin loetletakse 23. veebruaril sündinud tuntud inimesi.
+
+- 1417 – Paulus II, paavst
+- 1443 – Mátyás I, Ungari kuningas
+- 1653 – Wolmar Anton von Schlippenbach, Rootsi riigitegelane ja sõjaväelane
+- 1685 – Georg Friedrich Händel, saksa helilooja
+- 1687 – Otto Gustav Douglas, Vene kindral
+- 1723 – Richard Price, Walesi moraali- ja poliitikafilosoof
+- 1744 – Mayer Amschel Rotschild, juudi päritolu Saksa pankur
+- 1751 – Henry Dearborn, USA arst, poliitik ja sõjaväelane
+- 1794 – August Matthias Hagen, baltisaksa maalikunstnik ja graafik
+- 1802 – Luigi Cibrario, Itaalia ajaloolane, numismaatik ja poliitik
+- 1821 – Amos Akerman, USA justiitsminister
+- 1842 – Eduard Hartmann, saksa filosoof
+- 1844 – Aleksandr Solovjov, arstiteadlane
+- 1852 – Dục Đức, Annami keiser
+- 1868 – W. E. B. DuBois, Ameerika Ühendriikide sotsioloog, ajaloolane, teadlane, kodanikuõiguste aktivist, kirjanik ja toimetaja
+- 1871 – Ernst Limberg, Eesti sõjaväelane 
+- 1874 – Konstantin Päts, Eesti ajakirjanik ja poliitik
+- 1878 – Kazimir Malevitš, ukraina futuristlik maalikunstnik
+- 1879 – Rudolf Sieczyński, poola päritolu Austria helilooja
+- 1881 – Peeter Ilves, eesti vaimulik
+- 1883 – Adolf II, Schaumburg-Lippe vürst
+- 1883 – Karl Jaspers, saksa psühhiaater ja filosoof
+- 1883 – Victor Fleming, USA filmirežissöör
+- 1883 – Otto Nuschke, Saksa poliitik ja ajakirjanik ning Saksa DV riigitegelane
+- 1884 – Kazimierz Funk, poola päritolu Ameerika Ühendriikide biokeemik
+- 1886 – Anna Raudkats, eesti rahvatantsupedagoog
+- 1888 – Eduard Putmaker, Eesti sõjaväelane
+- 1889 – Cándido Aguilar, Mehhiko kindral ja välisminister
+- 1891 – Aleksander Eller, eesti skulptor
+- 1896 – Johannes Toming, Eesti sõjaväelane 
+- 1897 – Edgar Kolmpere, eesti kergejõustiklane ja jääpallur
+- 1898 – Vittorio Zoppi, Itaalia diplomaat
+- 1899 – Erich Kästner, saksa kirjanik, publitsist ja stsenarist
+- 1899 – Riho Tormis, eesti köster ja organist
+- 1901 – Agaate Veeber, eesti kunstnik
+- 1901 – Aleksander Ohu, eesti geofüüsik ja meteoroloog
+- 1903 – Julius Fučík, Tšehhoslovakkia ajakirjanik
+- 1908 – Ferdinand Lester, eesti poksija
+- 1909 – Andres Põllusaar, eesti maastikuarhitekt, aiandusagronoom ja pedagoog
+- 1910 – Lembit Lüüs, Eesti NSV riigitegelane
+- 1913 – Artur Vahter, eesti koorijuht ja muusikateadlane
+- 1919 – Albert Sulg, eesti alpinist
+- 1920 – Louise Reiss, USA arst
+- 1921 – Paul Mäeots, eesti näitleja ja lavastaja
+- 1923 – Rafael Addiego Bruno, Uruguay jurist ja poliitik
+- 1924 – Virve Kotkas, eesti graafik ja raamatuillustraator
+- 1925 – Paul Kannuluik, eesti näitleja
+- 1927 – Robert N. Bellah, Ameerika Ühendriikide sotsioloog
+- 1929 – Aleksius II, Moskva ja kogu Venemaa patriarh
+- 1929 – Herbert Mies, Saksamaa poliitik
+- 1929 – Jaan Einasto, eesti astrofüüsik
+- 1929 – Georgi Štšedrovitski, vene filosoof ja metodoloog
+- 1930 – Vapper Sirk, eesti õpetaja
+- 1932 – Evald Kullamaa, eesti kirurg
+- 1932 – Ain Särg, eesti arstiteadlane
+- 1935 – Peet Lepik, eesti semiootik
+- 1935 – August Solo, eesti pedagoog ja koolijuht
+- 1938 – Jiří Menzel, tšehhi filmilavastaja, -stsenarist ja -näitleja
+- 1938 – Jüri Männiste, eesti arstiteadlane
+- 1938 – Paul Morrissey, USA filmirežissöör
+- 1940 – Peter Fonda, USA filminäitleja ja -režissöör
+- 1943 – Helmi Sakkov, eesti arhitekt
+- 1943 – Enn Rebane, eesti arstiteadlane ja kirurg
+- 1944 – Valeri Kravets, Eesti vanglaametnik
+- 1944 – Oleg Jankovski, Venemaa näitleja
+- 1945 – Georg Milbradt, Saksamaa poliitik
+- 1945 – Kaie Kerem, eesti majandusteadlane
+- 1946 – Viljar Jõe, eesti oboemängija
+- 1946 – Jevgenia Haponen, Eesti teleajakirjanik
+- 1948 – Hele-Kai Remmel, eesti kohtunik
+- 1949 – Jaak Kikas, eesti füüsik
+- 1949 – Marc Garneau, Kanada poliitik
+- 1951 – Mait Maltis, eesti laulja
+- 1951 – Ivonne Baki, Ecuadori poliitik ja diplomaat
+- 1952 – Avo Kiir, eesti vaimulik, EELK Viru praost
+- 1954 – Viktor Juštšenko, Ukraina poliitik
+- 1955 – Ain Mäesalu, eesti arheoloog
+- 1957 – Peeter Rahnel, Eesti omavalitsustegelane ja poliitik
+- 1958 – Iván Zerpa, Venezuela diplomaat
+- 1959 – Merike Jürjo, eesti ajakirjanik ja ajaloolane
+- 1960 – Naruhito, Jaapani kroonprints
+- 1960 – Liāna Langa, läti luuletaja ja tõlkija
+- 1961 – Katrin Reimus, eesti kirjanik, tõlkija ja õpetaja
+- 1962 – Urmas Laansoo, eesti botaanik
+- 1963 – Anneli Rõigas, eesti ajakirjanik
+- 1963 – Radosław Sikorski, Poola poliitik
+- 1965 – Erkki Truve, eesti molekulaarbioloog
+- 1965 – Kristin Davis, USA filminäitleja
+- 1965 – Michael Dell, USA ettevõtja
+- 1965 – Kadri Joa, eesti sõudja
+- 1966 – Didier Queloz, Šveitsi astronoom
+- 1968 – Toomas Kasemaa, Eesti riigiametnik ja poliitik
+- 1968 – Viire Talts, eesti naiskoroonamängija
+- 1969 – Deniss Manturov, Venemaa poliitik
+- 1971 – Magomed Jevlojev, Inguššia ajakirjanik
+- 1971 – Risto Kallaste, eesti jalgpallur
+- 1977 – Kristina Šmigun-Vähi, Eesti suusataja, kahekordne olümpiavõitja
+- 1977 – Kristjan Jaak Nuudi, eesti filmioperaator
+- 1979 – Anti Reinthal, eesti näitleja
+- 1979 – Priit Purge, eesti sporditeadlane ja sõudja
+- 1981 – Gareth Barry, Inglismaa jalgpallur
+- 1981 – Kaarel Vanamölder, eesti ajaloolane
+- 1981 – Natalia Popenko, Eesti näitleja
+- 1981 – Mirko Ojakivi, ajakirjanik ja saatejuht
+- 1981 – Martin Saaremägi, eesti laulukirjutaja, muusik ja produtsent
+- 1981 – Jan Böhmermann, saksa ajakirjanik, tele- ja raadiosaatejuht, meelelahutaja, satiirik, muusik, kirjanik ning filmiprodutsent
+- 1982 – Anna-Maria Galojan, Eesti poliitik
+- 1982 – Dāvis Stalts, Läti poliitik, muusik ja ajakirjanik
+- 1982 – Anna Chapman, Venemaa Föderatsiooni Välisluureteenistuse endine salaagent, kes tegutses Ameerika Ühendriikides
+- 1982 – Eevamari Oksanen, soome laskesuusataja
+- 1982 – Mihkel Kunnus, eesti semiootik, publitsist, esseist ja kirjanduskriitik
+- 1983 – Emily Blunt, Briti filminäitleja
+- 1983 – Simon Eder, Austria laskesuusataja
+- 1983 – Õnne Pillak, Eesti poliitik
+- 1985 – Terje Toomistu, eesti antropoloog, etnoloog ja filmitegija
+- 1988 – Nicolás Gaitán, Argentina jalgpallur
+- 1989 – Cillian Sheridan, Iirimaa jalgpallur 
+- 1990 – Marco Scandella, Kanada jäähokimängija
+- 1990 – Nguyễn Ngọc Trường Sơn, vietnami maletaja
+- 1993 – Zachery Ziemek, Ameerika Ühendriikide kümnevõistleja
+- 1994 – Dakota Fanning, Ameerika Ühendriikide filminäitleja
+- 1995 – Valarie Allman, Ameerika Ühendriikide kettaheitja
+- 1997 – Benjamin Henrichs, Saksamaa jalgpallur 
+- 2000 – Femke Bol, hollandi kergejõustiklane, tõkkejooksja
+- 2001 – Jordan Díaz, Hispaania kolmikhüppaja
+
+Veebruar, 23.

@@ -1,0 +1,94 @@
+# Sündinud 25. detsembril
+
+''Siin loetletakse 25. detsembril sündinud tuntud inimesi.
+- 1 eKr – Jeesus Kristus (kristliku traditsiooni järgi)
+- 1717 – Pius VI, paavst
+- 1856 – Hans von Bartels, saksa kunstnik
+- 1878 – Vassili Mölder, eesti kirjanik
+- 1881 – Christian Hülsmeyer, saksa leidur
+- 1886 – Franz Rosenzweig, Saksa juudi filosoof, teoloog, ajaloolane ja tõlkija
+- 1893 – Aado Hõimre (Adolf Himbeck), eesti näitleja   
+- 1893 – August Ratiste, Eesti sõjaväelane	
+- 1896 – Aleksandr Viner, eesti teatrilavastaja  
+- 1898 – Johannes Green, eesti päritolu Nõukogude Liidu sõjaväelane 	
+- 1900 – Ida Suvero, eesti näitleja  	
+- 1901 – Paul Rahno, eesti mikrobioloog  
+- 1901 – Albrecht Põdrus, eesti tehnikateadlane
+- 1901 – Oskar Pihlak, eesti arst
+- 1902 – Aarne Norralt, Eesti sõjaväelane
+- 1902 – Georg Dertinger, Saksa ajakirjanik ja poliitik ning Saksa DV riigitegelane
+- 1905 – Anton Ackermann, saksa kommunistlik poliitik ja Saksa DV riigitegelane
+- 1906 – Ernst Ruska, saksa füüsik, Nobeli füüsikaauhinna laureaat 1986
+- 1908 – Quentin Crisp, inglise kirjanik, jutuvestja ja näitleja
+- 1909 – Eino Sirén, Soome poliitik
+- 1910 – Enn Vaigur, eesti näitekirjanik  	
+- 1918 – Anwār as-Sadāt, Egiptuse president
+- 1921 – Veli Olavi Klami, Soome estofiil
+- 1921 – Heino Kostabi, eesti muusikapedagoog ja -teadlane 
+- 1923 – August Pärl, eesti kultuuritöötaja
+- 1925 – Carlos Castaneda, kultuuriantropoloog ja kirjanik
+- 1925 – Leida Jürgen, eesti klaasikunstnik  	
+- 1926 – Enrique Jorrín, Kuuba helilooja, tšatšatšaa leiutaja
+- 1927 – Rein Aren, eesti näitleja  	
+- 1927 – Ram Narayan, India muusik
+- 1927 – Lilian Kirepe, eesti teatriloolane
+- 1932 – Leo Türn, eesti tehnikateadlane 	
+- 1934 – Aime Maripuu, eesti kirjanik
+- 1936 – Kenti printsess Alexandra
+- 1936 – Jaan Saul, eesti näitleja ja lavastaja   	
+- 1939 – Merike Vaitmaa, eesti muusikateadlane 	
+- 1939 – Tiia Paide, eesti põllumajandusteadlane
+- 1939 – Fariza Ongarsõnova, kasahhi kirjanik ja tõlkija
+- 1940 – Niilo Halonen, soome suusahüppaja ja treener
+- 1940 – Heino Pehk, eesti koorijuht ja muusikapedagoog 	
+- 1941 – Margus Tuuling, eesti näitleja 	
+- 1942 – Jüri Lass, eesti balletitantsija  	
+- 1942 – Antanas Vinkus, Leedu poliitik ja diplomaat
+- 1946 – Kersti Karu, eesti keraamik
+- 1947 – Jaan Troost, eesti üldkirurg
+- 1948 – Manny Mori, Mikroneesia Liiduriikide poliitik
+- 1949 – Nawaz Sharif, Pakistani poliitik, peaminister 1990–1993 ja 1997–1999
+- 1949 – Sissy Spacek, USA näitleja
+- 1950 – Karl Rove, Valge Maja vanemnõunik 
+- 1951 – Tiit Salumäe, eesti praost ja assessor
+- 1951 – Valeri Pormann, Eesti maadleja ja maadlustreener
+- 1952 – Desireless (Claudie Fritsch), prantsuse laulja
+- 1952 – Paul Steinhardt, Ameerika Ühendriikide füüsikateoreetik ja kosmoloog
+- 1953 – Peeter Olesk, eesti kirjandusteadlane ja poliitik
+- 1954 – Roman Baskin, eesti näitleja ja lavastaja  
+- 1954 – Annie Lennox, šoti laulja 	 
+- 1955 – Tiina Reinsalu, eesti graafik 	
+- 1957 – Urmas Mikk, eesti graafik
+- 1958 – Alexander, Schaumburg-Lippe vürst
+- 1958 – Ain Saarna, eesti meediategelane
+- 1958 – Alannah Myles, Kanada laulja
+- 1959 – Reet Montonen, eesti psühholoog
+- 1959 – Ago Gaškov, Eesti ajakirjanik
+- 1960 – Semjon Ossinovski, Ukraina jalgpallur ja jalgpallitreener
+- 1962 – Nils Horner, rootsi ajakirjanik
+- 1964 – Jonas Sjöstedt, Rootsi poliitik, publitsist ja endine metallitööline
+- 1967 – Arko Okk, eesti filmilavastaja ja -operaator
+- 1967 – Oleg Tinkov, vene ettevõtja
+- 1969 – Fred Børre Lundberg, Norra kahevõistleja
+- 1971 – Dido Armstrong, inglise laulja
+- 1971 – Vladislav Galkin, Venemaa näitleja
+- 1971 – Ain Mäeots, eesti näitleja ja lavastaja
+- 1971 – Justin Trudeau, Kanada poliitik
+- 1973 – Gabriel Popescu, Rumeenia jalgpallur
+- 1973 – Lena Hallengren, Rootsi poliitik
+- 1974 – Meelis Sarv, eesti näitleja
+- 1976 – Tuomas Holopainen, soome muusik, laulukirjutaja ja produtsent
+- 1977 – Sylvi Listhaug, Norra poliitik
+- 1978 – Karel Rüütli, Eesti poliitik
+- 1978 – Paula Seling, rumeenia laulja ja raadio DJ 
+- 1979 – Olta Xhaçka, Albaania poliitik 
+- 1980 – Aleksandr Rubel, Eesti sarimõrvar
+- 1981 – Lee Du-Haeng, Lõuna-Korea pikamaajooksja
+- 1981 – Sonya Yoncheva, Bulgaaria ooperilaulja 
+- 1982 – Hiljar Tammela, eesti ajaloolane
+- 1983 – Triin Lepik, eesti näitleja
+- 1984 – Miloš Ninković, serbia jalgpallur
+- 1991 – Eric Kammiste, eesti kitarrist
+- 1996 – Emiliano Buendía, Argentina jalgpallur
+
+Detsember, 25.

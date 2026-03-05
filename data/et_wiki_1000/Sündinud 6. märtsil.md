@@ -1,0 +1,96 @@
+# Sündinud 6. märtsil
+
+''Siin loetletakse 6. märtsil sündinud tuntud inimesi.
+
+- 1475 – Michelangelo, itaalia kunstnik
+- 1516 – Konrad Gesner, Šveitsi loodusteadlane, arst ja bibliograaf
+- 1753 – Heinrich Johann von Jannau, baltisaksa publitsist ja kirikutegelane
+- 1755 – George Gottfried Marpurg, Eesti koolikirjanik ja vaimulik
+- 1800 – Charles Vincent Francois Pezet de Corval, Tartu Ülikooli lektor
+- 1815 – Pjotr Jeršov, vene luuletaja ja proosakirjanik
+- 1843 – Karp Tiisik, eesti õigeusu vaimulik ja professor
+- 1861 – Karl Wilhelm Seeler, baltisaksa õigusteadlane
+- 1870 – Oscar Straus, Austria helilooja ja dirigent
+- 1881 – María Blanchard, hispaania maalikunstnik 
+- 1885 – Hildor Lundvik, rootsi muusikapedagoog, organist, dirigent ja helilooja
+- 1891 – Victoria Kent, Hispaania jurist ja poliitik
+- 1892 – Harri-Reinhold Saemets, Eesti sõjaväelane ja politseinik
+- 1893 – Marie Helene Aul, eesti õpetaja
+- 1897 – Knudåge Riisager, taani helilooja
+- 1898 – Eduard Riisna, Eesti poliitik
+- 1899 – Enn Aarend, Eesti kohtunik
+- 1903 – Nagako, Jaapani keisrinna
+- 1904 – Oskar Reemet, Eesti sõjaväelane 
+- 1911 – Felix Oinas, eesti folklorist ja keeleteadlane
+- 1911 – Nikolai Baibakov, Nõukogude Liidu majandustegelane ja poliitik
+- 1916 – Hermann Axen, Saksa DV riigitegelane
+- 1917 – Donald Davidson, ameerika filosoof
+- 1918 – María Mercader, hispaania filminäitleja
+- 1926 – Andrzej Wajda, poola filmilavastaja
+- 1927 – Gabriel García Márquez, Colombia kirjanik
+- 1927 – Gordon Cooper, Ameerika Ühendriikide aeronautikainsener, katselendur ja NASA astronaut 
+- 1930 – Lembit Aaslav-Kaasik, eesti veemotosportlane
+- 1930 – Lorin Maazel, USA dirigent, viiuldaja ja helilooja
+- 1931 – Aimu Reintam, eesti põllumajandusteadlane 
+- 1932 – Bronisław Geremek, Poola ajaloolane ja poliitik
+- 1932 – Hillar Kalda, eesti arst ja poliitik
+- 1932 – Õie Praggi, eesti põllumajandusteadlane
+- 1934 – Mihhail Žvanetski, juudi päritolu Vene kirjanik, satiirik, humorist ja näitleja
+- 1934 – Red Simpson, Ameerika Ühendriikide kantrilaulja ja laulukirjutaja
+- 1936 – Choummaly Sayasone, Laose poliitik ja sõjaväelane
+- 1937 – Valentina Tereškova, vene kosmonaut
+- 1941 – Sulev Raudsepp, eesti advokaat ja kirjanik
+- 1941 – Karyn Kupcinet, USA näitleja
+- 1944 – Kiri Te Kanawa, Uus-Meremaa ooperilaulja
+- 1944 – Mary Wilson, USA laulja
+- 1946 – David Gilmour, Briti muusik
+- 1947 – Richard Fosbury, USA kergejõustiklane
+- 1950 – Daisy Järva, eesti turismitegelane
+- 1951 – Toivo Unt, eesti kontrabassimängija
+- 1954 – Hanno Rohtla, eesti informaatikateadlane
+- 1955 – Helle Aan, eesti ajakirjanik
+- 1955 – Jarõna Ilo, Eesti graafik
+- 1956 – Cyprien Ntaryamira, Burundi president
+- 1957 – Eddie Deezen, Ameerika Ühendriikide näitleja
+- 1959 – Nizār Rayān, Palestiina sõjapealik
+- 1960 – Riho Rõõmus, eesti tippjuht, muusik ja laulja 
+- 1962 – Peeter Laurits, eesti fotograaf
+- 1962 – Vello Puujalg, eesti kunstnik
+- 1962 – Erika Hess, endine Šveitsi mäesuusataja
+- 1963 – Urmas Sellis, eesti ornitoloog ja looduskaitsja
+- 1967 – Koit Luus, Eesti kodanik
+- 1967 – Glenn Greenwald, USA ajakirjanik, jurist ja publitsist
+- 1967 – Mihai Tudose, Rumeenia poliitik
+- 1969 – Tõnu Rätsep, eesti arstiteadlane
+- 1970 – Dan Põldroos, eesti näitleja
+- 1971 – Hindrek Maasik (Masa), eesti tele- ja videorežissöör
+- 1972 – Shaquille O'Neal, USA korvpallur
+- 1972 – Peter Sendel, Saksamaa laskesuusataja
+- 1973 – Irja Saar, eesti mükoloog
+- 1974 – Arnold Looga, eesti muusik
+- 1975 – Aracely Arámbula, Mehhiko näitleja ja laulja
+- 1976 – Antoine Dénériaz, prantsuse mäesuusataja
+- 1977 – Giórgos Karagkoúnis, kreeka jalgpallur
+- 1977 – Kristjan Vassil, eesti teadlane
+- 1979 – Tim Howard, Ameerika Ühendriikide jalgpallur
+- 1980 – Georgi Balakšin, jakuudi rahvusest Sahha poliitik ja endine poksija
+- 1983 – Mario Scheiber, Austria mäesuusataja
+- 1983 – Siim Sikkut, Eesti riigiametnik
+- 1985 – Pierre-Édouard Bellemare, prantsuse jäähokimängija 
+- 1987 – Ilan Șor, juudi päritolu Moldova oligarh ja poliitik
+- 1988 – Simon Mignolet, belgia jalgpallur
+- 1989 – Agnieszka Radwańska, poola tennisist
+- 1990 – Ryan Bennett, inglise jalgpallur
+- 1990 – Derek Drouin, Kanada kergejõustiklane
+- 1990 – Andrew Musgrave, Suurbritannia murdmaasuusataja
+- 1993 – Nicklas Jensen, taani jäähokimängija
+- 1994 – Nathan Redmond, Inglismaa jalgpallur
+- 1994 – Wesley Hoedt, hollandi jalgpallur
+- 1994 – Betti Vainküla, eesti purjetaja
+- 1995 – Sam Lafferty, USA jäähokimängija
+- 1996 – Christian Coleman, USA kergejõustiklane
+- 1998 – Jemma Reekie, Suurbritannia jooksja
+- 1998 – Ernest Agyiri, Ghana jalgpallur
+- 2002 – Joonas Riismaa, eesti korvpallur
+
+Märts, 06.
