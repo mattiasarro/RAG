@@ -1,9 +1,5 @@
 
 services:
-
-  # ─────────────────────────────────────────────
-  # PostgreSQL
-  # ─────────────────────────────────────────────
   postgres:
     image: postgres:16-alpine
     container_name: postgres
@@ -21,10 +17,6 @@ services:
       retries: 5
     networks:
       - ai-net
-
-  # ─────────────────────────────────────────────
-  # Redis
-  # ─────────────────────────────────────────────
   redis:
     image: redis:7-alpine
     container_name: redis
@@ -39,10 +31,6 @@ services:
       retries: 5
     networks:
       - ai-net
-
-  # ─────────────────────────────────────────────
-  # ChromaDB
-  # ─────────────────────────────────────────────
   chromadb:
     image: chromadb/chroma:latest
     container_name: chromadb
@@ -60,10 +48,6 @@ services:
       retries: 5
     networks:
       - ai-net
-
-  # ─────────────────────────────────────────────
-  # Ollama — instance 1 (GPU 0)
-  # ─────────────────────────────────────────────
   ollama-1:
     image: ollama/ollama:latest
     container_name: ollama-1
@@ -83,10 +67,6 @@ services:
               capabilities: [gpu]
     networks:
       - ai-net
-
-  # ─────────────────────────────────────────────
-  # Ollama — instance 2 (GPU 1)
-  # ─────────────────────────────────────────────
   ollama-2:
     image: ollama/ollama:latest
     container_name: ollama-2
@@ -106,10 +86,6 @@ services:
               capabilities: [gpu]
     networks:
       - ai-net
-
-  # ─────────────────────────────────────────────
-  # Open WebUI — instance 1
-  # ─────────────────────────────────────────────
   open-webui-1:
     image: ghcr.io/open-webui/open-webui:cuda
     container_name: open-webui-1
@@ -167,10 +143,6 @@ services:
               capabilities: [gpu]
     networks:
       - ai-net
-
-  # ─────────────────────────────────────────────
-  # Open WebUI — instance 2
-  # ─────────────────────────────────────────────
   open-webui-2:
     image: ghcr.io/open-webui/open-webui:cuda
     container_name: open-webui-2
@@ -221,10 +193,6 @@ services:
               capabilities: [gpu]
     networks:
       - ai-net
-
-  # ─────────────────────────────────────────────
-  # Nginx — load balancer across Open WebUI instances
-  # ─────────────────────────────────────────────
   nginx:
     image: nginx:alpine
     container_name: nginx
@@ -239,7 +207,6 @@ services:
     networks:
       - ai-net
 
-# ─────────────────────────────────────────────
 volumes:
   postgres_data:
   redis_data:
