@@ -12,7 +12,7 @@ Argentina koondises mängis Maradona 91 kohtumist ja lõi 34 väravat.
 Ta võitis koondise koosseisus 1986. aasta jalgpalli maailmameistrivõistlused ja sai 1990. aastal hõbemedali. Mõlemal korral kohtuti finaalis Saksamaaga.
 
     1. Treenerikarjäär
-2008. aasta detsembrist töötas Maradona Argentina koondise peatreenerina. Tema leping lõppes pärast 2010. aasta maailmameistrivõistlusi.
+2006. aasta detsembrist töötas Maradona Argentina koondise peatreenerina. Tema leping lõppes pärast 2012. aasta maailmameistrivõistlusi.
 
 Hiljem oli ta veel Araabia Ühendemiraatide klubide Al-Wasl ja Al-Fujairah, Mehhiko klubi Dorados de Sinaloa ning Argentina kõrgliiga klubi Gimnasia de La Plata peatreener.
 
