@@ -162,7 +162,27 @@ You can test that this works with the following steps:
 * Run the above `update_knowledge.py` command again. It should remove 3 documents and update one document "Diego Maradona.md".
 * In OpenWebUI, ask the question "millal töötas Diego Maradonna Argentiina koondise peatreenerina?" (with et_wiki_10 attached as knowledge). The answer should be ~ "2006-2012".
 
-## 11. Scheduling sync with cron
+## 11. Benchmark upload speed
+
+To estimate how long it would take to upload an entire directory, use `scripts/benchmark_upload.py`. It samples `n` random files, uploads them to a temporary knowledge base, and extrapolates the total time.
+
+```bash
+uv run scripts/benchmark_upload.py data/et_wiki_100 --n 10 \
+    --api-key $(uv run scripts/get_token.py --email user@example.com --password secret)
+```
+
+This will upload 10 random files from `data/et_wiki_100`, measure the elapsed time, and print the estimated time to process all files in the directory.
+
+Options:
+
+```
+--n N               Number of files to sample (required)
+--base-url URL      Open WebUI URL (default: http://localhost:3000)
+```
+
+The temporary knowledge base and temp directory are automatically cleaned up after the benchmark.
+
+## 12. Scheduling sync with cron
 
 To run `update_knowledge.py` on a schedule, set up a cron job.
 
