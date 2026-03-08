@@ -83,3 +83,41 @@ watch nvidia-smi
 * Select qwen3.5:35b from the top-left dropdown.
 * Write "Milline Twitteri kasutaja lõi NAFO?" to the text box (do NOT attach knowledge) and send the message. This executes the language model qwen3.5:35b without doing RAG over the added knowledge base, and is not able to answer the question.
 * Write "Milline Twitteri kasutaja lõi NAFO?" to the text box (DO attach the knowledge base you just created via the + sign) and send the message. This runs a full RAG pipeline over the knowledge base we added and is able to answer the question.
+
+## 8. Python environment setup (uv)
+
+Install [uv](https://docs.astral.sh/uv/getting-started/installation/) (and ensure the uv executable is in PATH):
+
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+
+Scripts in `scripts/` use [PEP 723](https://peps.python.org/pep-0723/) inline dependency metadata, so `uv run` automatically creates an isolated virtual environment and installs the required packages — no manual `pip install` or `venv` setup needed.
+
+If you prefer a traditional venv:
+
+```bash
+uv venv
+source .venv/bin/activate
+uv pip install httpx
+```
+
+## 9. Upload files to knowledge base via API
+
+Instead of uploading files through the UI (step 6), you can use the `scripts/upload_to_knowledge.py` script to bulk-upload a directory of files to an Open WebUI knowledge base.
+
+```bash
+uv run scripts/upload_to_knowledge.py data/et_wiki_100 \
+    --api-key $(uv run scripts/get_token.py --email user@example.com --password secret)
+```
+
+You can also omit `--password` to be prompted interactively.
+
+This will create a knowledge base named `et_wiki_100` (after the directory), upload all files, wait for embedding to complete, and add them to the knowledge base.
+
+Options:
+
+```
+--knowledge-name NAME   Custom knowledge base name (default: directory name)
+--base-url URL          Open WebUI URL (default: http://localhost:3000)
+```
