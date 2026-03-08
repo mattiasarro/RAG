@@ -161,3 +161,37 @@ You can test that this works with the following steps:
 * Move thr dir back `mv 2026-03-08 data/versioned/et_wiki_10/2026-03-08`
 * Run the above `update_knowledge.py` command again. It should remove 3 documents and update one document "Diego Maradona.md".
 * In OpenWebUI, ask the question "millal töötas Diego Maradonna Argentiina koondise peatreenerina?" (with et_wiki_10 attached as knowledge). The answer should be ~ "2006-2012".
+
+## 11. Scheduling sync with cron
+
+To run `update_knowledge.py` on a schedule, set up a cron job.
+
+### Store the API key
+
+Create a file readable only by your user:
+
+```bash
+echo "YOUR_API_KEY_OR_JWT" > ~/.config/openwebui_api_key
+chmod 600 ~/.config/openwebui_api_key
+```
+
+If you don't have an API key (API keys not enabled), you can store a long-lived JWT instead. Generate one and write it to the file:
+
+```bash
+uv run scripts/get_token.py --email user@example.com --password secret > ~/.config/openwebui_api_key
+chmod 600 ~/.config/openwebui_api_key
+```
+
+Note: JWT tokens expire. If your token has a short lifetime, use `get_token.py` inline in the cron job instead or configure an API_KEY.
+
+### Add the cron job
+
+```bash
+crontab -e
+```
+
+Run every hour:
+
+```cron
+0 * * * * cd /home/andresgavriljuk/RAG && $HOME/.local/bin/uv run scripts/update_knowledge.py data/versioned/et_wiki_10 --api-key "$(cat ~/.config/openwebui_api_key)" >> /var/log/update_knowledge.log 2>&1
+```
