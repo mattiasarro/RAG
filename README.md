@@ -121,3 +121,43 @@ Options:
 --knowledge-name NAME   Custom knowledge base name (default: directory name)
 --base-url URL          Open WebUI URL (default: http://localhost:3000)
 ```
+
+## 10. Incremental knowledge base sync
+
+Use `scripts/update_knowledge.py` to incrementally sync a versioned directory to a knowledge base. This avoids re-uploading unchanged files and is useful when documents are updated over time.
+
+Expected directory structure:
+
+```
+data/versioned/et_wiki_10/
+    2026-03-07/       # older snapshot
+    2026-03-08/       # latest snapshot
+    _sync_log.csv     # auto-generated sync history
+```
+
+Run the script:
+
+```bash
+uv run scripts/update_knowledge.py data/versioned/et_wiki_10 \
+    --api-key $(uv run scripts/get_token.py --email user@example.com --password secret)
+```
+
+On the first run (no existing knowledge base), it creates one and uploads all files from the latest subdirectory.
+
+On subsequent runs, it reads `_sync_log.csv` to find the last successfully synced directory and diffs it against the latest directory:
+
+- **Added files** (in latest but not in previous) — uploaded and added
+- **Removed files** (in previous but not in latest) — removed from knowledge base
+- **Modified files** (same name, different md5 hash) — replaced in knowledge base
+- **Unchanged files** — skipped
+
+Each run appends a row to `_sync_log.csv` with the directory name, timestamp, and status (`completed` or `failed`).
+
+You can test that this works with the following steps:
+
+* Move one dir out `mv data/versioned/et_wiki_10/2026-03-08 2026-03-08`
+* Run the above `update_knowledge.py` command.
+* In OpenWebUI, ask the question "millal töötas Diego Maradonna Argentiina koondise peatreenerina?" (with et_wiki_10 attached as knowledge). The answer should be ~ "2008-2010".
+* Move thr dir back `mv 2026-03-08 data/versioned/et_wiki_10/2026-03-08`
+* Run the above `update_knowledge.py` command again. It should remove 3 documents and update one document "Diego Maradona.md".
+* In OpenWebUI, ask the question "millal töötas Diego Maradonna Argentiina koondise peatreenerina?" (with et_wiki_10 attached as knowledge). The answer should be ~ "2006-2012".

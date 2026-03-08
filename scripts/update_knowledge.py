@@ -137,11 +137,14 @@ def add_file_to_knowledge(
 
 def get_kb_files(client: httpx.Client, knowledge_id: str, headers: dict) -> dict[str, str]:
     """Return {filename: file_id} for all files in the knowledge base."""
-    resp = client.get(f"/api/v1/knowledge/{knowledge_id}", headers=headers)
+    resp = client.get("/api/v1/files/", headers=headers)
     resp.raise_for_status()
-    data = resp.json()
-    files = data.get("files") or []
-    return {f["filename"]: f["id"] for f in files}
+    all_files = resp.json()
+    return {
+        f["filename"]: f["id"]
+        for f in all_files
+        if (f.get("meta") or {}).get("collection_name") == knowledge_id
+    }
 
 
 def remove_file_from_knowledge(
@@ -181,7 +184,6 @@ def remove_and_delete(
         print(f"  WARNING: {filename} not found in knowledge base, skipping removal")
         return
     remove_file_from_knowledge(client, knowledge_id, file_id, headers)
-    delete_file(client, file_id, headers)
     print(f"  Removed from knowledge base: {filename}")
 
 
