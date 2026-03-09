@@ -3,7 +3,7 @@
 ## 1. Clone the repo
 
 ```bash
-git clone git@github.com:andresgavriljuk/RAG.git
+git clone git@github.com:mattiasarro/RAG.git
 cd RAG
 ```
 
